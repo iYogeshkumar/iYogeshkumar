@@ -9,13 +9,12 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-7xvgy2e3d-iamyogeshkumar21-gmailcom.vercel.app/](https://myportfolio-7xvgy2e3d-iamyogeshkumar21-gmailcom.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://yogeshkumar-iota.vercel.app/](https://yogeshkumar-iota.vercel.app/)
 
-- 💬 Ask me about **Html,CSS,JavaScript,React,Redux.**
+- 💬 Ask me about Html,CSS,JavaScript,React,Redux.
 
-- 📫 How to reach me **iamyogeshkumar21@gmail.com**
+- 📫 How to reach me iamyogeshkumar21@gmail.com
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MCBbTV0g2JLf6xS0-LejIF6wkWizA4tv/view?usp=sharing](https://drive.google.com/file/d/1MCBbTV0g2JLf6xS0-LejIF6wkWizA4tv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
