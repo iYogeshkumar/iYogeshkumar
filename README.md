@@ -9,7 +9,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://yogeshkumar-iota.vercel.app/](https://yogeshkumar-iota.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/iYogeshkumar](https://github.com/iYogeshkumar)
 
 - 💬 Ask me about Html,CSS,JavaScript,React,Redux.
 
