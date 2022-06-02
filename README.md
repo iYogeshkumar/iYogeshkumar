@@ -9,9 +9,9 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/iYogeshkumar](https://github.com/iYogeshkumar)
+- 👨‍💻 My Portfolio- [https://yogeshkumar-iota.vercel.app/](https://yogeshkumar-iota.vercel.app/)
 
-- 💬 Ask me about Html,CSS,JavaScript,React,Redux.
+
 
 - 📫 How to reach me iamyogeshkumar21@gmail.com
 
