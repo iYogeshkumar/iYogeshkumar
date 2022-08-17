@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;Software+Developer+Engineer;)](https://git.io/typing-svg)
 
 
-<img align='right' src="https://blog.sagipl.com/wp-content/uploads/2019/06/hire-full-stack-developers1546507474317-1.gif" alt="yk" height="360" width="400" alt="">
+<img align='right' src="https://blog.sagipl.com/wp-content/uploads/2019/06/hire-full-stack-developers1546507474317-1.gif" alt="yk" height="300" width="400" alt="">
 
 # 💫About Me :
 <pre class="notranslate"><code>👋 Hello, Welcome to my profile
