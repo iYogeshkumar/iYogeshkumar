@@ -6,7 +6,7 @@
 
 
 # 💫About Me :
-<img align='right' src="https://blog.sagipl.com/wp-content/uploads/2019/06/hire-full-stack-developers1546507474317-1.gif" alt="yk" height="290" width="300" alt="">
+<img align='right' src="https://blog.sagipl.com/wp-content/uploads/2019/06/hire-full-stack-developers1546507474317-1.gif" alt="yk" height="250" width="300" alt="">
 
 <pre class="notranslate"><code>👋 Hello, Welcome to my profile
 
