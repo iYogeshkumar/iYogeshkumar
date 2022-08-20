@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yogesh Kumar</h1>
 
+<h4 align="center">I am a passionate Full Stack Web Developer who focuses on writing clean and user-friendly applications using JavaScript, HTML, CSS, React, Redux,etc. Love to explore new technologies and leverage them to solve real-life problems.Looking forward to work on exciting projects that can help in making people's lives better and comfortable. </h4>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;Software+Developer+Engineer;)](https://git.io/typing-svg)
 
